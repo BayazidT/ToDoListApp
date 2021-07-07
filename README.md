@@ -2,6 +2,6 @@
 
  <p align="center">
     <a href="#">
-    <img src="readmefile/HomeScreen.jpg" alt="Image" width="90%" >
+    <img src="readmefile/HomeScreen.jpg" alt="Image" width="50%" >
   </a>
    </p>
