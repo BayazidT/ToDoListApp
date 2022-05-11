@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "todolist2",
-    "slug": "todolist2",
+    "name": "TodoList",
+    "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/Adda.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
